@@ -1,6 +1,5 @@
 # TalentIQ — AI Resume Screening Portal
 
-Refactored from a single monolithic JSX file into a clean frontend/backend architecture.
 
 ## Project Structure
 
